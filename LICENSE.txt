@@ -1,0 +1,9 @@
+Copyright (C) 2020 Antonette Shibani. 
+
+Available under a Creative Commons Attribution 3.0 Unported License. No warranties are given. 
+You are free to share and adapt the material as needed, provided attribution is given to the original work. See https://creativecommons.org/licenses/by/3.0/ for details.
+
+Check corresponding licenses for the underlying technical components and libraries.
+
+To cite the research, use:
+Antonette Shibani (2020) Constructing Automated Revision Graphs: A novel visualization technique to study student writing. In Proceedings of the 21th International Conference on Artificial Intelligence in Education.
