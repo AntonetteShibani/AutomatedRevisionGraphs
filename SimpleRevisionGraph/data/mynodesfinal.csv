@@ -1,0 +1,17 @@
+x,y,index,sentence,label
+0.1,0.95,t1s1,rapidly advancing technology has been seen as a marker of contemporary modernity.,Zero
+0.1,0.90,t1s2,it has been a formidable vessel in transporting old world values and traditions into a new world of innovation and deviation.,Zero
+0.1,0.85,t1s3,"in the legal world, the growing area of cyber-crime, metadata and privacy laws all affirm the idea that technological change is inescapable.",Zero
+0.1,0.80,t1s4,"the implementation of video conferencing technologies in courts reflect an attempt by the judiciary to give effect to case-management principles and the overriding purpose - that is, the 'just, quick and cheap' resolution.",Zero
+0.1,0.75,t1s5,do the benefits of video conferencing in civil trials outweigh the risks identified by salyzyn [1]?,Zero
+0.1,0.70,t1s6,"while video conferencing in civil trials does generally reduce costs, promote access to justice and is generally quicker than in-person examinations, the pursuit of such technologies should only be engaged with as a last resort for the purpose of upholding the integrity of the law in the australian context.",Zero
+0.1,0.65,t1s7,"the current stance of australian courts considering the access to justice in light of salyzyn's arguments, particularly the latter, is of interest.",Zero
+0.1,0.60,t1s8,"part three will examine the role of video conferencing in breaking down traditional social barriers before investigating and evaluating the cost and quality of video conferencing by considering credibility assessments and emotional connection, and part five will examine the impact of video conferencing on the public perception of the legal system.",Zero
+0.5,0.95,t2s1,rapidly advancing technology facilitates the integration and innovation of traditional values in modern contexts.,Zero
+0.5,0.90,t2s2,technological change presents opportunities to transform traditional practices to address issues.,Zero
+0.5,0.85,t2s3,"the implementation of video conferencing technologies in courts reflect an attempt by the judiciary to give effect to case-management principles and the overriding purpose - that is, the 'just, quick and cheap' resolution of a dispute.",One
+0.5,0.80,t2s4,"this has significant benefits in civil trials as it generally reduces costs, promotes access to justice and is generally quicker than in-person examinations.",Zero
+0.5,0.75,t2s5,"this essay, however, in assessing these benefits against the risks identified by salyzyn1 to argue that the pursuit of such technologies should only be engaged with as a last resort for the purpose of upholding the integrity of the law in the australian context.",Two
+0.5,0.70,t2s6,"this essay discusses the current stance of australian courts considering the issue of access to justice in light of salyzyn's arguments, particularly the latter.",Zero
+0.5,0.65,t2s7,"it then examines the role of video conferencing in breaking down traditional social barriers but notes the the associated costs and quality of video conferencing, with a focus on the issue of credibility assessments and emotional connection.",Two
+0.5,0.60,t2s8,"finally, the impact of video conferencing on the public perception of the legal system will be examined before concluding that together these indicate that, on a practical level, the risks of video conferencing outweigh the benefits.",Zero

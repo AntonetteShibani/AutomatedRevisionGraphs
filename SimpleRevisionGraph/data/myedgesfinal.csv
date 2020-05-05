@@ -1,0 +1,6 @@
+Start,End,Weight
+t1s4,t2s3,0.8
+t1s6,t2s5,0.6
+t1s7,t2s6,0.8
+t1s8,t2s7,0.6
+t1s8,t2s8,0.6
